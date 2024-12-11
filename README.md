@@ -65,6 +65,7 @@
 
 **<h3 align="left">GitHub Contributions</h3>**
 
-![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=Aarongeo1211&theme=react&hide_border=true&line=9e4f96&point=3b8e82&area=true&hide_title=true)
+<!-- GitHub Activity Graph -->
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Aarongeo1211&theme=react&hide_border=true&line=9e4f96&point=3b8e82&area=true&hide_title=true)
 
 > **A snake moves around my contributions! 🐍**
