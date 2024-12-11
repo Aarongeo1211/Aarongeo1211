@@ -72,14 +72,15 @@
   <img Width="48%" src="https://github Read Me Stats vercel app/api/Top-Langs?Username=aarong eo1211&Theme=react&HideTitle=false&Layout=compact&LangsCount=6&HideProgress=false&CardWidth=400" alt="GitHub top-langs Card" />
 </p>
 
-**< h3 align=" left">GitHub Contributions</h3 >**
+**<h3 align="left">GitHub Stats</h3>**
 
-<p Align="center">
-  <img src="https://github Read Me Streak stats Herokuapp/?User=aarongeo1211&Theme=react&hideBorder=true" alt="GitHub Streak" />
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aarongeo1211&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarongeo1211&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
-**< h3 align=" left">GitHub Contributions with Snake Animation</h33" Snake Animation Snake</</>
+**<h3 align="left">GitHub Contributions</h3>**
 
-" style="width: 100%; height: 200px">
-  <img src="https://github Read Mesnake herokuapp/Graph?Username=aarong eo1211&&BgColor=0d1117&color=5bc0eb&line=5 bc0eb&&point=5 bc0 eb" alt="GitHub contributions with snake animation" />
+<p align="center">
+  <img src="https://github.com/Aarongeo1211/github-contribution-grid-snake.svg" alt="GitHub Contributions" />
 </p>
