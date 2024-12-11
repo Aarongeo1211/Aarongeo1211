@@ -17,11 +17,7 @@
 
  **<h3 align="center">🌟 A passionate developer and innovator with a knack for solving real-world problems using technology.
 
-💻 Skills and Interests
-Tech Stack: Proficient in Frontend Development (Flutter, React) and Backend Development (Node.js, Express.js).
-Databases: Experienced with MongoDB and Firebase Realtime Database.
-APIs: Skilled in integrating APIs like Google Maps, Twilio, Crypto Swap, Stripe, and more.
-Specializations: Emergency Services, Smart City Systems, AI & Conversational Agents, and Blockchain Development.</h3>**
+
 
 **<h3 align="left">Rapid Fire</h3>**
 
